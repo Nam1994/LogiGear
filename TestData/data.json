@@ -1,0 +1,56 @@
+{
+  "product": [
+    {
+      "name": "Khaki Suede Polish Work Boots",
+      "price": "$149.99"
+    },
+    {
+      "name": "Camo Fang Backpack Jungle",
+      "price": "$39.99"
+    },
+    {
+      "name": "Parka and Quilted Liner Jacket",
+      "price": "$49.99"
+    },
+    {
+      "name": "Cotton Black Cap",
+      "price": "$12.99"
+    },
+    {
+      "name": "Knit Sweater with Zips",
+      "price": "$29.99"
+    },
+    {
+      "name": "Long Linen-blend Shirt",
+      "price": "$18.99"
+    },
+    {
+      "name": "Knit Orange Sweater",
+      "price": "$28.99"
+    },
+    {
+      "name": "Cotton Band-collar Blouse",
+      "price": "$49.99"
+    },
+    {
+      "name": "Golden Pilot Jacket",
+      "price": "$129.99"
+    },
+    {
+      "name": "Spotted Patterned Sweater",
+      "price": "$80.99"
+    },
+    {
+      "name": "Double Knit Sweater",
+      "price": "$59.99"
+    }
+  ],
+  "checkout_info": {
+    "email": "nam.ngh94@gmail.com",
+    "card": "4242 4242 4242 4242",
+    "date": "1221",
+    "cvc": "012",
+    "postal": "70000"
+  }
+
+}
